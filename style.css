@@ -1,5 +1,7 @@
 h1{
     background-color: aqua;
     color:black;
+    padding-right:  200px;
     display: inline-block;
+    grid-column: 2/5;
 }
